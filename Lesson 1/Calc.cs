@@ -1,5 +1,4 @@
-﻿
-namespace Lesson_1;
+﻿namespace Lesson_1;
 
 public class Calc
 {

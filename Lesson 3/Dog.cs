@@ -14,6 +14,6 @@ public class Dog : IAnimal
 
    public void Move(float x, float y)
    {
-      Console.WriteLine("( " + y + " ).");
+      Console.WriteLine("( " + x + " ).");
    }
 }

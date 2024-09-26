@@ -1,0 +1,13 @@
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\COMMON\bin\Debug\net8.0\COMMON.deps.json
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\COMMON\bin\Debug\net8.0\COMMON.dll
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\COMMON\bin\Debug\net8.0\COMMON.pdb
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\COMMON\obj\Debug\net8.0\COMMON.csproj.AssemblyReference.cache
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\COMMON\obj\Debug\net8.0\COMMON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\COMMON\obj\Debug\net8.0\COMMON.AssemblyInfoInputs.cache
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\COMMON\obj\Debug\net8.0\COMMON.AssemblyInfo.cs
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\COMMON\obj\Debug\net8.0\COMMON.csproj.CoreCompileInputs.cache
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\COMMON\obj\Debug\net8.0\COMMON.sourcelink.json
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\COMMON\obj\Debug\net8.0\COMMON.dll
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\COMMON\obj\Debug\net8.0\refint\COMMON.dll
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\COMMON\obj\Debug\net8.0\COMMON.pdb
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\COMMON\obj\Debug\net8.0\ref\COMMON.dll

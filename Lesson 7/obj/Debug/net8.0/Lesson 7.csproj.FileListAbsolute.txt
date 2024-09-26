@@ -1,0 +1,24 @@
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\bin\Debug\net8.0\Lesson 7.exe
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\bin\Debug\net8.0\Lesson 7.deps.json
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\bin\Debug\net8.0\Lesson 7.runtimeconfig.json
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\bin\Debug\net8.0\Lesson 7.dll
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\bin\Debug\net8.0\Lesson 7.pdb
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\bin\Debug\net8.0\COMMON.dll
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\bin\Debug\net8.0\COMMON.pdb
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\obj\Debug\net8.0\Lesson 7.csproj.AssemblyReference.cache
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\obj\Debug\net8.0\Lesson 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\obj\Debug\net8.0\Lesson 7.AssemblyInfoInputs.cache
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\obj\Debug\net8.0\Lesson 7.AssemblyInfo.cs
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\obj\Debug\net8.0\Lesson 7.csproj.CoreCompileInputs.cache
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\obj\Debug\net8.0\Lesson 7.sourcelink.json
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\obj\Debug\net8.0\Lesson 7.csproj.Up2Date
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\obj\Debug\net8.0\Lesson 7.dll
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\obj\Debug\net8.0\refint\Lesson 7.dll
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\obj\Debug\net8.0\Lesson 7.pdb
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\obj\Debug\net8.0\Lesson 7.genruntimeconfig.cache
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\obj\Debug\net8.0\ref\Lesson 7.dll
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\bin\Debug\net8.0\MODEL.dll
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\bin\Debug\net8.0\MODEL.pdb
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 7\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll

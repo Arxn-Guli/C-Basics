@@ -1,0 +1,15 @@
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\bin\Debug\net8.0\Lesson 8.exe
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\bin\Debug\net8.0\Lesson 8.deps.json
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\bin\Debug\net8.0\Lesson 8.runtimeconfig.json
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\bin\Debug\net8.0\Lesson 8.dll
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\bin\Debug\net8.0\Lesson 8.pdb
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\obj\Debug\net8.0\Lesson 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\obj\Debug\net8.0\Lesson 8.AssemblyInfoInputs.cache
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\obj\Debug\net8.0\Lesson 8.AssemblyInfo.cs
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\obj\Debug\net8.0\Lesson 8.csproj.CoreCompileInputs.cache
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\obj\Debug\net8.0\Lesson 8.sourcelink.json
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\obj\Debug\net8.0\Lesson 8.dll
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\obj\Debug\net8.0\refint\Lesson 8.dll
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\obj\Debug\net8.0\Lesson 8.pdb
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\obj\Debug\net8.0\Lesson 8.genruntimeconfig.cache
+C:\Users\arxn\Documents\GitHub\CSharp-Basics\Lesson 8\obj\Debug\net8.0\ref\Lesson 8.dll
